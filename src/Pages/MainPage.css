@@ -1,0 +1,15 @@
+.indexCatalog {
+    position: static;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.lineChart {
+    background-color: rgb(233, 234, 226);
+}
+.dataTable {
+    background-color: rgb(233, 234, 226);
+
+}
